@@ -1,0 +1,17 @@
+C:\Projetos\Desafios\LoginESenha\bin\Debug\net6.0-windows\LoginESenha.exe
+C:\Projetos\Desafios\LoginESenha\bin\Debug\net6.0-windows\LoginESenha.deps.json
+C:\Projetos\Desafios\LoginESenha\bin\Debug\net6.0-windows\LoginESenha.runtimeconfig.json
+C:\Projetos\Desafios\LoginESenha\bin\Debug\net6.0-windows\LoginESenha.dll
+C:\Projetos\Desafios\LoginESenha\bin\Debug\net6.0-windows\ref\LoginESenha.dll
+C:\Projetos\Desafios\LoginESenha\bin\Debug\net6.0-windows\LoginESenha.pdb
+C:\Projetos\Desafios\LoginESenha\obj\Debug\net6.0-windows\LoginESenha.csproj.AssemblyReference.cache
+C:\Projetos\Desafios\LoginESenha\obj\Debug\net6.0-windows\LoginESenha.Form1.resources
+C:\Projetos\Desafios\LoginESenha\obj\Debug\net6.0-windows\LoginESenha.csproj.GenerateResource.cache
+C:\Projetos\Desafios\LoginESenha\obj\Debug\net6.0-windows\LoginESenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Desafios\LoginESenha\obj\Debug\net6.0-windows\LoginESenha.AssemblyInfoInputs.cache
+C:\Projetos\Desafios\LoginESenha\obj\Debug\net6.0-windows\LoginESenha.AssemblyInfo.cs
+C:\Projetos\Desafios\LoginESenha\obj\Debug\net6.0-windows\LoginESenha.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafios\LoginESenha\obj\Debug\net6.0-windows\LoginESenha.dll
+C:\Projetos\Desafios\LoginESenha\obj\Debug\net6.0-windows\ref\LoginESenha.dll
+C:\Projetos\Desafios\LoginESenha\obj\Debug\net6.0-windows\LoginESenha.pdb
+C:\Projetos\Desafios\LoginESenha\obj\Debug\net6.0-windows\LoginESenha.genruntimeconfig.cache
